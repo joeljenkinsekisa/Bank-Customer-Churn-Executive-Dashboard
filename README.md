@@ -28,4 +28,5 @@ Power BI was used to build:
 
 ## Dashboard Preview
 
-![Dashboard](images/executive_dashboard_screenshot.png)
+<img width="1288" height="727" alt="EXECUTIVE DASBORD" src="https://github.com/user-attachments/assets/afd260a0-a253-4a32-ae53-953fae7a273a" />
+
